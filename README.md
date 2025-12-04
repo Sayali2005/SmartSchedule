@@ -1,8 +1,7 @@
 📘 SmartSchedule
 Smart Scheduling for Smarter Learning
 
-SmartSchedule is a modern, intuitive, and AI-assisted lecture scheduling and academic management platform built for Admins, Instructors, and Institutes.
-It offers real-time lecture scheduling, conflict detection, instructor dashboards, and a smooth UI with dark/light mode support.
+SmartSchedule is a comprehensive web application designed to streamline the process of scheduling lectures, managing instructors, and organizing courses. It features a dual-role system with a powerful Admin Panel for management and an Instructor Dashboard for viewing schedules.
 
 🚀 Live Demo:
 👉 https://smartschedule12.netlify.app/login
